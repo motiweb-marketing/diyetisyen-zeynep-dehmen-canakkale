@@ -1,0 +1,8 @@
+{
+  "name": "Diyetisyen Zeynep Dehmen",
+  "description": "Çanakkale'da kişiye özel beslenme danışmanlığı ve online diyet programları. 0543 286 64 17",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
